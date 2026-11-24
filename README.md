@@ -1,1 +1,1 @@
-# Portifolio-Kauan
+pnpm i -g vercel
